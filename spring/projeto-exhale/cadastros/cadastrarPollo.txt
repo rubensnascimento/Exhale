@@ -1,0 +1,7 @@
+"modelo": "pollo",
+    "colecao": "verao",
+    "tamanho": "G",
+    "tecido": "dry fit",
+    "preco": 80.0,
+    "desconto": 0.10,
+    "botoes": 3

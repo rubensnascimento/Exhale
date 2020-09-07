@@ -1,0 +1,7 @@
+"modelo": "comum",
+    "colecao": "verao",
+    "tamanho": "G",
+    "tecido": "dry fit",
+    "preco": 80.0,
+    "desconto": 0.10,
+    "manga": "longa"
